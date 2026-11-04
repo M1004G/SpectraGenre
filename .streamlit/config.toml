@@ -1,0 +1,8 @@
+# Mirrors the tokens at the top of app.py so native widgets match the custom styling
+[theme]
+base = "light"
+primaryColor = "#B3401D"
+backgroundColor = "#F6F4EE"
+secondaryBackgroundColor = "#ECE8DC"
+textColor = "#1B1B19"
+font = "sans serif"

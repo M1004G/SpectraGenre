@@ -1,0 +1,14 @@
+# Dataset and cached features are large: never commit them
+data/
+cache/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Notebooks / OS
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,10 @@
+numpy
+pandas
+librosa
+scikit-learn
+joblib
+tqdm
+pytest
+torch
+streamlit
+matplotlib

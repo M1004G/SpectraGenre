@@ -3,8 +3,6 @@
 
 Music genre classification on FMA-small. A baseline (MFCC summary + SVM) is compared against a small CNN trained on log-mel spectrograms, with a Streamlit app for trying clips and inspecting results.
 
-![Classify a clip](docs/classify.png)
-![Evaluation](docs/evaluation.png)
 
 ## Results
 
